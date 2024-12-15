@@ -74,3 +74,4 @@ static void reallocate(Stack * stack)
 	stack->contents = tmp;
 }
 
+printf("Hello World ! by qhdqhd1215 ");
